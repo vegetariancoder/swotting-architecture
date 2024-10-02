@@ -6,9 +6,9 @@
 # TODO : Fix This
 
 ```mermaid
-%%{init: { 'logLevel': 'debug', 'theme': 'dark' } }%%
+%%{init: { 'logLevel': 'debug', 'theme': 'default' } }%%
 timeline
-    title England's History Timeline
+    title Architecture Learning Timelines
         section  EssentialSQL Data Modeling & Relational Data Architecture
           Aug 2024 : Britain's oldest known house was built in Orkney, Scotland
           Sept 2024 : Sea levels rise and Britain becomes an island.<br> The people who live here are hunter-gatherers.
