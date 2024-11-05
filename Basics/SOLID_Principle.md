@@ -4,11 +4,15 @@
 - This was first coined by Bob Martin in 2000.
 
 ### Stands For
-S --> Single Responsibility Principle 
-O --> Open Closed Principle
-L --> Liskov Substitution Principle
-I --> Interface Segregation Principle
-D --> Dependency Inverse Principle
+
+```mermaid
+flowchart TD
+A[SOLID]--O --> C[Open Closed Principle]
+A[SOLID]--L --> D[Liskov Substitution Principle]
+A[SOLID]--I --> E[Interface Segregation Principle]
+A[SOLID]--D --> F[Dependency Inverse Principle]
+A[SOLID]--S --->B[Single Responsibility Principle]
+```
 
 
 #### Single Responsibility Principle 
